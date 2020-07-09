@@ -1,0 +1,2 @@
+# whatsagb
+Projeto Whatsapp GB
